@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#32374C"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/getStarted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="30dp"
+        android:text="@string/getstarted"
+        android:textColor="#212121"
+        android:layout_alignParentBottom="true"
+        android:background="#fafafa"/>
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/back"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="College Search"
+        android:layout_below="@id/back"
+        android:layout_centerHorizontal="true"
+        android:textSize="26sp"
+        android:textColor="#fafafa"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:textColor="#fafafa"
+        android:textStyle="bold"
+        android:text="Your All Search In One Place"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="15dp"/>
+
+
+
+</RelativeLayout>

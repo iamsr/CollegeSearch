@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">college search</string>
+    <string name="getstarted">Get Started</string>
+    <string name="location">Location</string>
+    <string name="locationTitle">Welcome! Please Select Your State From List</string>
+    <string name="course">Course</string>
+    <string name="courseTitle">Now Choose The Course Of Your Choice</string>
+
+</resources>

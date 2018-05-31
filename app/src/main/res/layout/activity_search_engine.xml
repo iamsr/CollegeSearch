@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".searchEngineActivity">
+
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/searchRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_alignParentBottom="true">
+
+</android.support.v7.widget.RecyclerView>
+
+    <ImageView
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:src="#212121"
+        android:layout_above="@id/searchRecyclerView"
+        />
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/line">
+
+    </WebView>
+
+
+</RelativeLayout>
