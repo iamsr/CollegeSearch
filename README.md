@@ -22,15 +22,30 @@ Firebase is used to store query url of differrent college search engines.
   * FirebaseUI   
   * Picasso
   
+## Want To Contribute??
+    
+  #### If you want to contibute in this project follow following steps:
+       
+       1. Clone or Download the repository. Don't forget to give the *.
+       2. Use Android Studio version greater than 3.0 and latest gradle version.
+       3. Now Log in your google account and open firebase official website https://firebase.google.com/. 
+       4. Click Add Project and enter package name of project here this is the package name     "com.example.shubhamr.collegesearch".
+       5. google-services.json file will be downloaded when you press add app button.
+       6. Paste the google-services.json file to your project’s app folder. This step is very important as your project won’t build without this file.
+       7. Now open real-time database option in you Firebase project console and on top-right side click on import JSON.
+       8. select the firebaseJSON.json file included in the respository.
+       9. Now make changes according to your choice. Don;t upload that google-service.json file in any public repository.
+       10. Done.....!
+  
    
 ## Acknowledgement
 
-  > 1. [CareerIndia](https://www.careerindia.com)  
-  > 2. [CollegeDunia](https://collegedunia.com)
-  > 3. [CollegeSearch](https://www.collegesearch.in)
-  > 4. [Shiksha](https://www.shiksha.com)
-  > 5. [Background Image](https://wall.alphacoders.com/big.php?i=480421)
-  > 6. [FreePik](https://www.freepik.com/)
+  > [CareerIndia](https://www.careerindia.com)  
+  > [CollegeDunia](https://collegedunia.com)
+  > [CollegeSearch](https://www.collegesearch.in)
+  > [Shiksha](https://www.shiksha.com)
+  > [Background Image](https://wall.alphacoders.com/big.php?i=480421)
+  > [FreePik](https://www.freepik.com/)
  
            
 
