@@ -7,7 +7,7 @@ colleges in India in one place without doing hours of searches in google. It use
 
 ### Step 1 : Choose Your State 
 
-<img src="https://github.com/shubhamR1997/CollegeSearch/tree/master/Screenshot/screen2.png" width="100" height="100">
+<img src="https://github.com/shubhamR1997/CollegeSearch/tree/master/Screenshot/screen2.png" width="200" height="200">
 
 ### Step 2 : Choose Your Course
 <img src="https://github.com/shubhamR1997/CollegeSearch/tree/master/Screenshot/screen3.png" width="100" height="100">
