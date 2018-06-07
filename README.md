@@ -1,7 +1,8 @@
 # CollegeSearch
 
-<img src="Screenshot/screen1.png" height="500">                                    <img src="Screenshot/screen2.png" height="500">
-<img src="Screenshot/screen3.png" height="500">                                    <img src="Screenshot/screen4.png" height="500">
+<img src="Screenshot/screen1.png" >                                    <img src="Screenshot/screen2.png">
+
+<img src="Screenshot/screen3.png" >                                    <img src="Screenshot/screen4.png">
 
 
 CollegeSearch is a android application made for making college search easy. This application allows user to do all search for
