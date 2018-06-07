@@ -6,14 +6,14 @@ colleges in India in one place without doing hours of searches in google. It use
 ## How It Works??
 
 ### Step 1 : Choose Your State 
-![alt text](Screenshot/screen2.png "Screenshot")
+<img src="screenshot/screen2.png" height="400" alt="Screenshot"/>
 
 ### Step 2 : Choose Your Course
-![alt text](Screenshot/screen3.png "Screenshot")
+<img src="screenshot/screen3.png" height="400" alt="Screenshot"/>
 
 
 ### Step 3 : Choose Site
-![alt text](Screenshot/screen4.png "Screenshot")
+<img src="screenshot/screen4.png" height="400" alt="Screenshot"/>
 
 
 ### Step 4 : Result
@@ -22,14 +22,14 @@ colleges in India in one place without doing hours of searches in google. It use
 
 ## Tools/Technology Used
   
-  ..* Android Studio
-  ..* Firebase 
+  * Android Studio
+  * Firebase 
     
 ## External Libraries Used
    
-  ..* Butter Knife : http://jakewharton.github.io/butterknife/
-  ..* FirebaseUI : https://github.com/firebase/FirebaseUI-Android
-  ..* Picasso : square.github.io/picasso/
+  * Butter Knife : http://jakewharton.github.io/butterknife/
+  * FirebaseUI : https://github.com/firebase/FirebaseUI-Android
+  * Picasso : square.github.io/picasso/
    
 ## References
 
