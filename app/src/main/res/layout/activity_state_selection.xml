@@ -9,15 +9,16 @@
     <RelativeLayout
         android:id="@+id/designHolder"
         android:layout_width="match_parent"
-        android:layout_height="270dp"
-        android:background="#03a9f4">
+        android:layout_height="200dp"
+        android:background="#231E29">
 
         <ImageView
             android:id="@+id/locationIcon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/locationicon"
-            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
             />
 
         <TextView
@@ -29,7 +30,7 @@
             android:textColor="#fafafa"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="10dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -39,8 +40,8 @@
             android:textColor="#fafafa"
             android:textStyle="bold"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="10dp"
-            android:textSize="18sp"/>
+            android:layout_marginBottom="5dp"
+            android:textSize="14sp"/>
 
 
     </RelativeLayout>

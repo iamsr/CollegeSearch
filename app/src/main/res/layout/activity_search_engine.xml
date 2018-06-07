@@ -9,7 +9,7 @@
 <android.support.v7.widget.RecyclerView
     android:id="@+id/searchRecyclerView"
     android:layout_width="match_parent"
-    android:layout_height="150dp"
+    android:layout_height="100dp"
     android:layout_alignParentBottom="true">
 
 </android.support.v7.widget.RecyclerView>
@@ -18,7 +18,7 @@
         android:id="@+id/line"
         android:layout_width="match_parent"
         android:layout_height="4dp"
-        android:src="#212121"
+        android:src="#231E29"
         android:layout_above="@id/searchRecyclerView"
         />
 
