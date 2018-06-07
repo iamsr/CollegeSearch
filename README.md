@@ -1,4 +1,7 @@
 # CollegeSearch
+ <div align="center">
+ <img src="Screenshot/screen1.png" height="400">
+</div>
 
 CollegeSearch is a android application made for making college search easy. This application allows user to do all search for
 colleges in India in one place without doing hours of searches in google. It uses Firebase for storing query url.
