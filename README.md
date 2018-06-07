@@ -6,7 +6,7 @@ colleges in India in one place without doing hours of searches in google. It use
 ## How It Works??
 
 ### Step 1 : Choose Your State 
-![alt text | 100x100](Screenshot/screen2.png  "Screenshot")
+![alt text | 100x100](Screenshot/screen2.png  "Screenshot"){:height="36px" width="36px"}
 
 ### Step 2 : Choose Your Course
 ![alt text](Screenshot/screen3.png width="100" height="100" "Screenshot")
